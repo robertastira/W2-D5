@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #e9edee;
+}
+
+.testata { 
+    width: 100%;
+    height: 48px;
+    background-color: #222f3e;
+    display: block;
+    padding-left: 25px;}
+
+.spaziatura {
+    display: block;
+    height: 30px;
+    background-color: #f46600;
+    margin: 40px;
+    text-align: center;
+    }
+
+#giftcard {
+    margin-top: 10px;
+    color: white;
+    font-size: small;
+    padding-top: 8px
+}
+
+#categorie {
+    background-color: #364759 ;
+    padding-left: 25px;
+}
+
+.nomi { display: inline-block;
+    padding: 8px;
+    color: white;
+    font-size: small
+}
+
+#immagineverde { display: block;
+    margin: 40px;
+    color: white;
+    background-image: url(https://i.postimg.cc/d3YzyhvM/bg-image.png)  ;
+    height: 150px;
+}
+
+#testo1 {
+    margin-top: 10px;
+    color: white;
+    font-size: x-large;
+    padding-top: 50px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#testo2{
+    margin-top: 10px;
+    color: white;
+    font-size: small;
+    padding-top: 8px;
+    text-align: center;
+    font-weight: 700;
+}
+
+#findthegift{
+    display: block;
+    background-color: white;
+    margin: 40px;
+    height: 600px;
+}
+
+#testo3{
+    margin-top: 10px;;
+    font-size: 20px ;
+    margin-left: 20px;
+    padding-top: 8px;
+    text-align: left;
+    font-weight: 600;
+    display: inline-block
+}
+
+#testo4 {
+    margin-top: 10px;
+    font-size: 16px ;
+    margin-left: 20px;
+    padding-top: 8px;
+    text-align: left;
+    font-weight: 700;
+    display: inline-block;
+    color: #1b7281;
+}
+
+.immagine {
+    display: inline-block;
+    margin: 20px 15px 15px 20px;
+}
+
+.immagine img { 
+    object-fit: cover;
+    width: 415px;
+    height: 500px;
+    border-radius: 25px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+.immaginifinali { 
+    display: block;
+    margin-left: 40px;
+}
+
+#testisecondari {
+    width: 100%;
+}
+
+#play {
+    font-size: 18px ;
+    font-weight: 800;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    font-weight: 500;
+
+}
+
+#shop1 {
+    
+    font-size: 14px ;
+    font-weight: 700;
+    color: #1b7281;
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+#play1 {
+    font-size: 18px ;
+    font-weight: 800;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+    text-align: center;
+    font-weight: 400;
+
+}
+
+#shop2 {
+    font-size: 14px ;
+    font-weight: 700;
+    color: #1b7281;
+    font-size: 14px;
+    width: 100%;
+    text-align: center;
+
+}
+
+#footer {
+    background-color: #364759;
+    color: white;
+    display: block;
+    text-align: center;
+    height: 40px;
+    padding-top: 19px;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+#footer2 {
+    background-color: #222f3e;
+    color: white;
+    display: block;
+    text-align: center;
+    height: 200px;
+    padding-top: 80px;
+
+}
